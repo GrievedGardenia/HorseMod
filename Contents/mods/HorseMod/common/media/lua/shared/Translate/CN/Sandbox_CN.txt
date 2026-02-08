@@ -1,6 +1,6 @@
 Sandbox_CN = {
-    Sandbox_HorseMod = "马模组"
-    Sandbox_HorseMod_WalkSpeed = "马步行速度"
+    Sandbox_HorseMod = "马匹模组"
+    Sandbox_HorseMod_WalkSpeed = "马匹行走速度"
     Sandbox_HorseMod_GallopSpeed = "马匹疾驰的速度"
-    Sandbox_HorseMod_StaminaMultiplier = "耐力倍数"
+    Sandbox_HorseMod_StaminaMultiplier = "耐力倍率"
 }
